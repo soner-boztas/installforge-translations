@@ -1,0 +1,85 @@
+﻿// Hungarian language file for InstallForge
+
+[Main]
+Title = <appname> Telepítés
+
+[Gadgets]
+NextBtn = Következő >
+CancelBtn = Mégsem
+BackBtn = < Vissza
+FinishBtn = Befejezés
+BrowseBtn = Keresés...
+AcceptOptn = Tudomásul vettem
+DoNotAcceptOptn = Nem értek vele egyet
+CreateDesktopIconCbx = Asztali ikon létrehozása
+CreateStartMenuFolderCbx = Start menü könyvtár létrehozása
+LaunchProgramCbx = Indítás
+RebootCbx = Számítógép újraindítása most
+DestinationFolderFR3 = Célkönyvtár
+SelAppFolder=Válasszon programkönyvtárat:
+SelStartMenuFolder=Válasszon Start menü könyvtárat:
+
+[Messages]
+ExitSetupH = Kilépés a telepítőből
+ExitSetup = Megszakítja a telepítést?
+CouldNotExtractFileH = Hiba
+CouldNotExtractFile = Nem lehet kibontani a fájlt!
+
+[Start]
+Title = Üdvözlöm a(z) <appname> telepítő varázslóban
+Text = Ez telepíteni fogja a(z) <appname> <appversion> verziójú programot a számítógépére. Javaslom, zárjon be minden más alkalmazást, mielőtt folytatná a telepítést. Kattintson a Következő-re a folytatáshoz.
+
+[LicenceAgreement]
+HeadT = Licenc-megállapodást
+HeadB = Olvassa el az alábbi információkat a folytatás előtt.
+Text1 = Legyen szíves olvassa el az alábbi licenc-megállapodást. El kell fogadnia ezt a  licenc-megállapodást, mielőtt folytatná a telepítést.
+
+[ApplicationFolder]
+HeadT = Válassza ki a telepítés könyvtárát
+HeadB = Válassza ki a telepítés könyvtárát.
+Text1 = Az alábbi könyvtárba történik a(z) <appname> telepítése.
+Text2 = Folytatáshoz kattintson a Következő-re. Ha máshová akarja telepíteni kattintson a Keresés-re
+Text3 = Szükséges szabad hely:
+Text4 = Rendelkezésre áll:
+
+[StartMenuFolder]
+HeadT = Válassza ki a Start menü könyvtárat
+HeadB = Hová szeretné elhelyezni a program parancsikonját?
+Text1 = A telepítő a következő Start menü könyvtárba fogja elhelyezni a parancsikont.
+Text2 = Folytatáshoz kattintson a Következő-re. Ha másik könyvtárat akar kiválasztani, kattintson a Keresés-re.
+
+[AdditionalTasks]
+HeadT = Válasszon további feladatot
+HeadB = Milyen további feladatot hajtana végre?
+Text1 = Válasszon további feladatot amíg  a(z) <appname> telepítés folyik, kattintson a Következő-re.
+Text2 = További ikonok:
+
+[Installing]
+HeadT = Telepítés
+HeadB = Kérem várjon amíg a(z) <appname> telepítése folyik a számítógépére.
+Text1 = Telepítés előkészítése..
+Text2 = Telepítés..
+Text3 = KOnfigurálás..
+
+[Finish]
+Title = A(z) <appname> telepítés véglegesítése
+Text1 = Befejeződött a(z) <appname> telepítés e számítógépére. Kattintson a Befejezés-re a kilépéshez.
+
+[SerialCheck]
+HeadT = Felhasználói adatok
+HeadB = Kérem, adja meg az adatait.
+Text1 = Felhasználói név:
+Text2 = Szervezet:
+Text3 = Sorozatszám:
+
+[Uninstall]
+Header = Eltávolítási állapot
+Header_b = Kérem várjon amíg a(z) <appname> eltávolítása folyik a számítógépéről.
+Uninstalling = Eltávolítás
+Btn_cancel = Mégsem
+ExitUninstall_T = Eltávolítás
+ExitUninstall = Kilép az eltávolításból?
+Success_T = Eltávolítás
+Success = <appname> eltávolítása sikeresen megtörtént a számítógépéről!
+BM_T = Eltávolítás
+BM = El akarja távolítani a(z) <appname> programot a számítógépéről?

@@ -1,0 +1,89 @@
+﻿//(C) 2010 jmatencia
+//Spanish language file for InstallForge.
+
+[Main]
+Title=<appname> Setup
+
+[Gadgets]
+
+NextBtn = Siguiente >
+CancelBtn = Cancelar
+BackBtn = < Anterior
+FinishBtn = Finalizar
+BrowseBtn = Examinar...
+AcceptOptn = Acepto el acuerdo
+DoNotAcceptOptn = No acepto el acuerdo
+CreateDesktopIconCbx = Crear icono en el escritorio
+CreateStartMenuFolderCbx = Crear carpeta en el Menú de Inicio
+LaunchProgramCbx = Lanzar
+RebootCbx = Reinicie el equipo ahora
+DestinationFolderFR3 = Carpeta de destino
+SelAppFolder=Seleccione la carpeta de la aplicación:
+SelStartMenuFolder=Seleccione la carpeta del Menú Inicio:
+
+[Messages]
+ExitSetupH = Salir de la instalación
+ExitSetup = ¿Deseas cancelar la instalación?
+CouldNotExtractFileH = Error
+CouldNotExtractFile = No se puede extraer el archivo!
+
+[Start]
+Title = Bienvenido al asistente de instalación de <appname>
+Text = <appname> <appversion> se instalará en el equipo. Se recomienda cerrar todas las aplicaciones antes de continuar. Haga clic en Siguiente para continuar.
+
+[LicenceAgreement]
+HeadT = Acuerdo de licencia
+HeadB = Lea la siguiente información importante antes de continuar.
+Text1 = Por favor, lea el acuerdo de licencia. Debe aceptar los términos de este acuerdo antes de continuar con la instalación.
+
+[ApplicationFolder]
+HeadT = Seleccione la carpeta de la aplicación.
+HeadB = Por favor, elija el directorio para la instalación.
+Text1 = Se va a proceder a la instlación de <appname> en la siguiente carpeta.
+Text2 = Haga clic en siguiente para continuar. Si desea seleccionar otra carpeta diferente, haga clic en examinar.
+Text3 = Espacio libre requerido:
+Text4 = Espacio libre disponible:
+
+[StartMenuFolder]
+HeadT = Seleccione la carpeta del Menú Inicio
+HeadB = ¿Dónde quieres que el asistente de instalación coloque los accesos directos a la aplicación?
+Text1 = El asistente de instalación creará los accesos directos a la aplicación en la carpeta Menú Inicio a continuación.
+Text2 = Para continuar, haga clic en Siguiente. Si desea seleccionar una carpeta diferente, haga clic en Examinar.
+
+[AdditionalTasks]
+HeadT = Seleccione Tareas Adicionales.
+HeadB = ¿Qué tareas adicionales deben realizarse?
+Text1 = Seleccione las tareas adicionales que desee realizar durante la instalación de <appname>, a continuación, haga clic en Siguiente.
+Text2 = Iconos adicionales:
+
+[Installing]
+HeadT = Instalación en progreso
+HeadB = Por favor, espere mientras la aplicación <appname> se instala en su sistema.
+Text1 = Preparando la instalación ...
+Text2 = Instalando...
+Text3 = Configurando el sistema...
+
+[Finish]
+Title = Finalizado el asistente de instalación de <appname>
+Text1 = El asistente ha terminado de instalar la apliación <appname> en su sistema. Haga clic en Finalizar para salir.
+
+[SerialCheck]
+HeadT = Información del usuario
+HeadB = Por favor, introduzca su información.
+Text1 = Nombre de usuario:
+Text2 = Organización:
+Text3 = Número de Serie:
+
+[Uninstall]
+Header = Estado de la Desinstalación
+Header_b = Por favor, espere mientras <appname> es eliminado de su sistema.
+
+Uninstalling = Desistalación en progreso
+Btn_cancel = Cancelar
+ExitUninstall_T = Desinstalar
+ExitUninstall = ¿Deseas cancelar la desinstalación?
+Success_T = Desinstalación
+
+Success = <appname> ha sido desinstalado de su sistema con éxito!
+BM_T = Desinstalar
+BM = ¿Seguro que desea desinstalar <appname> de su sistema?

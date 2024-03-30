@@ -1,0 +1,86 @@
+﻿// (C) 2015 Marcin Pawłowski
+// Polish language file for InstallForge
+
+[Main]
+Title = Instalacja <appname>
+
+[Gadgets]
+NextBtn = Dalej >
+CancelBtn = Anuluj
+BackBtn = < Wstecz
+FinishBtn = Zakończ
+BrowseBtn = Przeglądaj...
+AcceptOptn = Akceptuję postanowienia
+DoNotAcceptOptn = Nie akceptuję postanowień
+CreateDesktopIconCbx = Utwórz skrót na pulpicie
+CreateStartMenuFolderCbx = Utwórz grupę w menu startowym
+LaunchProgramCbx = Uruchom
+RebootCbx = Uruchom ponownie teraz
+DestinationFolderFR3 = Folder docelowy
+SelAppFolder=Wybierz folder programu:
+SelStartMenuFolder=Wybierz folder menu startowego:
+
+[Messages]
+ExitSetupH = Zakończ instalację
+ExitSetup = Czy chcesz przerwać instalację?
+CouldNotExtractFileH = Błąd
+CouldNotExtractFile = Nie można wypakować plików!
+
+[Start]
+Title = Witaj w instalatorze <appname>.
+Text = Zainstalujesz <appname> <appversion> na Twoim komputerze. Zaleca się wyłączyć wszystkie inne aplikacje przed dalszym kontynuowaniem procesu instalacji. Kliknij Dalej, aby kontynuować.
+
+[LicenceAgreement]
+HeadT = Postanowienia licencji
+HeadB = Przeczytaj poniższe ważne informacje przed dalszym kontynuowaniem.
+Text1 = Przeczytaj proszę następujące postanowienia licencji. Musisz zakceptować warunki niniejszej licencji przed dalszą instalacją.
+
+[ApplicationFolder]
+HeadT = Wybierz folder programu
+HeadB = Wybierz folder do instalacji.
+Text1 = Instalator zainstaluje <appname> w folderze wskazanym poniżej.
+Text2 = Aby kontynuować kliknij Dalej. Jeżeli chcesz wybrać inny folder kliknij Przeglądaj.
+Text3 = Wymagane wolne miejsce:
+Text4 = Dostępne wolne miejsce:
+
+[StartMenuFolder]
+HeadT = Wybierz folder menu startowego
+HeadB = Gdzie instalator powinien umieścić skróty programu?
+Text1 = Instalator utworzy skróty programu w następującym folderze menu startowego.
+Text2 = Aby kontynuować kliknij Dalej. Jeżeli chcesz wybrać inny folder kliknij Przeglądaj.
+
+[AdditionalTasks]
+HeadT = Wybierz dodatkowe zadania
+HeadB = Jakie dodatkowe zadania powinny być wykonane?
+Text1 = Jeżeli chcesz, wybierz dodatkowe zadania, które instalator wykona podczas instalcji <appname>, a następnie kliknij Dalej.
+Text2 = Dodatkowe ikony:
+
+[Installing]
+HeadT = Instalacja w toku
+HeadB = Zaczekaj, aż instalator zainstaluje <appname> na Twoim komputerze.
+Text1 = Przygotowanie instalacji..
+Text2 = Instalacja w toku..
+Text3 = Konfigurowanie w toku..
+
+[Finish]
+Title = Zakańczanie instalcji <appname>
+Text1 = Instalator zakończył instalację <appname> na Twoim komputerze. Kliknij Zakończ, aby wyjść z instalatora.
+
+[SerialCheck]
+HeadT = Informacje o użytkowniku
+HeadB = Wprowadź proszę następujące informacje.
+Text1 = Nazwa użytkownika:
+Text2 = Organizacja:
+Text3 = Numer seryjny:
+
+[Uninstall]
+Header = Postęp odinstalowania
+Header_b = Zaczekaj, aż <appname> zostanie usunięty z Twojego komputera.
+Uninstalling = Odinstalowanie
+Btn_cancel = Anuluj
+ExitUninstall_T = Odinstaluj
+ExitUninstall = Czy chcesz wyjść i anulować odinstalowanie?
+Success_T = Odinstalowano
+Success = Program <appname> został pomyślnie usunięty z Twojego komputera!
+BM_T = Odinstalowanie
+BM = Czy chcesz usunąć <appname> z Twojego komputera?

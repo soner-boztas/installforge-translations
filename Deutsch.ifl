@@ -1,0 +1,87 @@
+﻿// (C) 2007 Alexander-N.de 
+// German language file for InstallForge
+// Last updated: 2020-05-01 (by solicus)
+
+[Main]
+Title = <appname> Setup
+
+[Gadgets] 
+NextBtn = Weiter >
+CancelBtn = Abbrechen
+BackBtn = < Zurück
+FinishBtn = Fertig
+BrowseBtn = Durchsuchen...
+AcceptOptn = Ich bin mit den Bedingungen der Lizenzvereinbarung einverstanden
+DoNotAcceptOptn = Ich bin mit den Bedingungen der Lizenzvereinbarung nicht einverstanden
+CreateDesktopIconCbx = Desktopsymbole erstellen
+CreateStartMenuFolderCbx = Startmenüeinträge erstellen
+LaunchProgramCbx = Anwendung starten
+RebootCbx = Computer neustarten 
+DestinationFolderFR3 = Zielverzeichnis 
+SelAppFolder = Programmordner auswählen:
+SelStartMenuFolder = Startmenü-Ordner auswählen
+
+[Messages] 
+ExitSetupH = Setup beenden 
+ExitSetup = Sind Sie sicher, dass Sie das Setup abbrechen möchten?
+CouldNotExtractFileH = Fehler 
+CouldNotExtractFile = Datei konnte nicht extrahiert werden!
+
+[Start] 
+Title = Wilkommen zum <appname> Setup-Assistenten
+Text = Dieser Assistent wird <appname> <appversion> auf ihrem Computer installieren. Sie sollten alle anderen Anwendungen beenden, bevor Sie mit dem Setup fortfahren.
+
+[LicenceAgreement] 
+HeadT = Lizenzvereinbarung 
+HeadB = Lesen sie die folgenden wichtigen Informationen, bevor Sie fortfahren. 
+Text1 = Bitte lesen Sie die folgende Lizenzvereinbarung. Sie müssen die Lizenzvereinbarung akzeptieren, bevor sie fortfahren können. 
+
+[ApplicationFolder] 
+HeadT = Programmordner auswählen
+HeadB = Bitte wählen sie den Programmordner für die Installation aus. 
+Text1 = Das Setup wird <appname> in folgenden Ordner installieren. 
+Text2 = Um einen anderen Ordner zu wählen, klicken Sie bitte auf Durchsuchen.
+Text3 = Benötigter Speicher: 
+Text4 = Freier Speicher: 
+
+[StartMenuFolder] 
+HeadT = Startmenü-Ordner auswählen
+HeadB = Wo soll das Setup die Verknüpfungen erstellen? 
+Text1 = Setup wird die Verknüpfungen in folgendem Ordner erstellen. 
+Text2 = Um einen anderen Ordner zu wählen, klicken Sie bitte auf Durchsuchen. 
+
+[AdditionalTasks] 
+HeadT = Zusätzliche Aufgaben auswählen
+HeadB = Welche zusätzlichen Aufgaben sollen ausgeführt werden? 
+Text1 = Wählen Sie die zusätzlichen Aufgaben, die das Setup bei der Installation von <appname> durchführen soll und klicken Sie dann auf Weiter. 
+Text2 = Zusätzliche Symbole: 
+
+[Installing] 
+HeadT = Installation wird ausgeführt
+HeadB = Bitte warten Sie, während das Setup <appname> auf ihrem Computer installiert. 
+Text1 = Installation wird vorbereitet...
+Text2 = Wird installiert... 
+Text3 = Konfigurationen werden vorgenommen...
+
+[Finish] 
+Title = <appname> Setup fertigstellen 
+Text1 = Das Setup hat die Installation von <appname> auf Ihrem Computer abgeschlossen. Klicken sie auf Fertigstellen, um das Setup zu beenden.
+
+[SerialCheck]
+HeadT = Benutzerinformationen
+HeadB = Bitte tragen Sie Ihre Daten ein.
+Text1 = Name:
+Text2 = Organisation:
+Text3 = Seriennummer:
+
+[Uninstall]
+Header = Deinstallationsstatus
+Header_b = Bitte warten Sie, während <appname> von Ihrem Computer entfernt wird.
+Uninstalling = Deinstallation wird ausgeführt...
+Btn_cancel = Abbrechen
+ExitUninstall_T = Deinstallation
+ExitUninstall = Wollen Sie die Deinstallation beenden?
+Success_T = Deinstallation
+Success = <appname> wurde erfolgreich von Ihrem Computer entfernt!
+BM_T = Deinstallation
+BM = Wollen Sie <appname> von Ihrem Computer entfernen?

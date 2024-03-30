@@ -1,0 +1,88 @@
+﻿// Portuguese (Brazil) language file for InstallForge.
+//
+// Translated by: Bruno 'ReX' Barbieri
+//       brunorex@gmail.com
+
+[Main]
+Title=<appname> Setup
+
+[Gadgets]
+NextBtn = Avançar >
+CancelBtn = Cancelar
+BackBtn = < Voltar
+FinishBtn = Concluir
+BrowseBtn = Localizar...
+AcceptOptn = Eu aceito o contrato
+DoNotAcceptOptn = Eu não aceito o contrato
+CreateDesktopIconCbx = Criar ícone na Área de Trabalho
+CreateStartMenuFolderCbx = Criar pasta no Menu Iniciar
+LaunchProgramCbx = Executar
+RebootCbx = Reiniciar 
+DestinationFolderFR3 = Pasta de Destino
+SelAppFolder=Selecione a pasta para o programa:
+SelStartMenuFolder=Selecione a pasta do Menu Iniciar:
+
+[Messages]
+ExitSetupH = Sair da Instalação
+ExitSetup = Você quer cancelar a instalação?
+CouldNotExtractFileH = Erro
+CouldNotExtractFile = Não foi possível extrair o arquivo!
+
+[Start]
+Title = Bem-vindo(a) ao Assistente de Instalação de <appname>
+Text = O Assistente vai instalar <appname> <appversion> no seu computador. É recomendável fechar todos os programas antes de continuar. Clique em Avançar para continuar.
+
+[LicenceAgreement]
+HeadT = Contrato de Licença
+HeadB = Leia as informações seguintes antes de continuar.
+Text1 = Por favor leia o Contrato de Licença. Você deve aceitar seus termos antes de continuar com a instalação.
+
+[ApplicationFolder]
+HeadT = Seleciona a pasta para o programa
+HeadB = Por favor selecione um diretório para a instalação.
+Text1 = A instalação vai instalar <appname> na pasta mostrada abaixo.
+Text2 = Clique em Avançar para continuar. Se deseja outra pasta, clique em Localizar.
+Text3 = Espaço livre requerido:
+Text4 = Espaço livre disponível:
+
+[StartMenuFolder]
+HeadT = Seleciona a pasta do Menu Iniciar
+HeadB = Aonde a instalação deve colocar os atalhos do programa?
+Text1 = A instalação vai criar os atalhos na seguinte pasta do Menu Iniciar.
+Text2 = Clique em Avançar para continuar. Se deseja outra pasta, clique em Localizar.
+
+[AdditionalTasks]
+HeadT = Selecione as Tarefas Adicionais
+HeadB = Quais tarefas adicionais devem ser executadas?
+Text1 = Selecione as tarefas adicionais que você gostaria que fossem executadas durante a instalação de <appname>, então clique em Avançar.
+Text2 = Ícones adicionais:
+
+[Installing]
+HeadT = Instalando
+HeadB = Aguarde enquanto <appname> é instalado em seu computador.
+Text1 = Preparando para instalar..
+Text2 = Instalando..
+Text3 = Configurando..
+
+[Finish]
+Title = Completando o Assistende de Instalação de <appname>
+Text1 = O Instalador terminou de instalar <appname> no seu computador. Clique em Concluir para sair da instalação.
+
+[SerialCheck]
+HeadT = Informação do Usuário
+HeadB = Por favor entre com seus dados.
+Text1 = Nome de usuário:
+Text2 = Empresa:
+Text3 = Número serial:
+
+[Uninstall]
+Header = Estado da Desinstalação
+Header_b = Aguarde enquanto <appname> é removido do seu computador.
+Uninstalling = Desinstalando
+Btn_cancel = Cancelar
+ExitUninstall_T = Desinstalação
+ExitUninstall = Deseja cancelar a desinstalação?
+Success_T = Desinstalação
+Success = <appname> foi removido com sucesso do seu computador!
+BM_T = Desinstalação
+BM = Deseja remover <appname> do seu computador?

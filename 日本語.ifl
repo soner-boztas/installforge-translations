@@ -1,0 +1,86 @@
+﻿// Japanese language file for InstallForge
+// Last updated: 2022-01-02 (by Lazzkaz)
+
+[Main]
+Title= <appname> セットアップ
+
+[Gadgets]
+NextBtn = 次へ >
+CancelBtn = キャンセル
+BackBtn = < 戻る
+FinishBtn = 終了
+BrowseBtn = 参照
+AcceptOptn = 同意する
+DoNotAcceptOptn =同意しない
+CreateDesktopIconCbx = デスクトップにアイコンを作成する
+CreateStartMenuFolderCbx = スタートメニューにフォルダを作成する
+LaunchProgramCbx = 起動
+RebootCbx = 再起動する
+DestinationFolderFR3 = 保存先フォルダ
+SelAppFolder=アプリケーションフォルダを選択:
+SelStartMenuFolder=スタートメニューフォルダを選択:
+
+[Messages]
+ExitSetupH = セットアップを終了する
+ExitSetup = インストールを中止しますか？
+CouldNotExtractFileH =エラー
+CouldNotExtractFile = ファイルを展開できませんでした
+
+[Start]
+Title = ようそこ<appname> セットアップウィザードへ
+Text =  <appname> <appversion>をコンピューターへインストールします。 他のアプリケーションをすべて終了させてから続ける事を推奨します。 次へをクリックして続けてください.
+
+[LicenceAgreement]
+HeadT = ライセンス契約
+HeadB = 続行する前に、次の重要な情報をお読みください。
+Text1 = 以下の使用許諾契約書をお読みください。インストールを続ける前に、この契約書の条項に同意する必要があります。.
+
+[ApplicationFolder]
+HeadT = アプリケーションフォルダを選択
+HeadB = インストールするディレクトリを選択してください。
+Text1 = 初期状態では<appname> 以下のフォルダにインストールされます。.
+Text2 = 続行するには、［次へ］をクリックします。別のフォルダーを選択する場合は、［参照］をクリックします。
+Text3 = 必要な空き容量:
+Text4 = 使用可能な空き容量:
+
+[StartMenuFolder]
+HeadT = スタートメニューフォルダを選択
+HeadB = 設定ではプログラムのショートカットをどこに設置しますか？
+Text1 = 設定では、以下のスタートメニューフォルダにプログラムのショートカットを作成します。
+Text2 = 続行するには、［次へ］をクリックします。別のフォルダーを選択する場合は、［参照］をクリックします。
+
+[AdditionalTasks]
+HeadT = 追加タスクの選択
+HeadB = 追加で行うべきタスクは？
+Text1 = <appname>をインストールする際に設定に追加してほしいタスクを選択し、[次へ]をクリックします。
+Text2 = 追加アイコン:
+
+[Installing]
+HeadT = インストール中
+HeadB = <appname>がインストールされるのをお待ちください。
+Text1 = インストール準備中...
+Text2 = インストール中...
+Text3 = 設定中...
+
+[Finish]
+Title = <appname> 設定ウィザードの完了
+Text1 = 設定により、<appname>のインストールが終了しました。完了をクリックして、設定を終了します。
+
+[SerialCheck]
+HeadT = ユーザー情報
+HeadB = 情報をご入力ください。
+Text1 = ユーザーネーム:
+Text2 = 組織図:
+Text3 = シリアル番号
+
+[Uninstall]
+Header = アンインストール状況
+Header_b = <appname>がコンピュータから削除されるまでお待ちください。
+Uninstalling =アンインストール中
+Btn_cancel = キャンセル
+ExitUninstall_T = アンインストール
+ExitUninstall = アンインストールを終了しますか？
+Success_T = アンインストール
+Success = <appname> は、あなたのコンピュータから正常に削除されました
+BM_T = アンインストール
+BM = <appname>をコンピューターから削除しますか

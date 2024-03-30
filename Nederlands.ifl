@@ -1,0 +1,85 @@
+﻿// Dutch language file for InstallForge
+
+[Main]
+Title = <appname> Installatie
+
+[Gadgets]
+NextBtn = Volgende >
+CancelBtn = Annuleer
+BackBtn = < Terug
+FinishBtn = Einde
+BrowseBtn = Blader...
+AcceptOptn = Ik aanvaard de overeenkomst
+DoNotAcceptOptn = Ik aanvaard de overeenkomst niet
+CreateDesktopIconCbx = Maak icoon op bureaublad
+CreateStartMenuFolderCbx = Maak map in Startmenu
+LaunchProgramCbx = Start
+RebootCbx = Herstart computer nu
+DestinationFolderFR3 = Doelmap
+SelAppFolder = Kies applicatiemap:
+SelStartMenuFolder = Kies Startmenu Map:
+
+[Messages]
+ExitSetupH = Verlaat Installatie
+ExitSetup = Wil je de installatie annuleren?
+CouldNotExtractFileH = Fout
+CouldNotExtractFile = Bestand kon niet uitgepakt worden!
+
+[Start]
+Title = Welkom bij de <appname> Installatiewizard
+Text = <appname> <appversion> zal op je computer geïnstalleerd worden. Het is aan te bevelen dat je alle andere programma's afsluit alvorens verder te gaan. Klik Volgende om verder te gaan.
+
+[LicenceAgreement]
+HeadT = Gebruiksovereenkomst
+HeadB = Lees deze belangrijke informatie alvorens verder te gaan.
+Text1 = Lees a.u.b. de volgende gebruiksovereenkomst. Je moet deze overeenkomst aanvaarden alvorens verder te gaan met de installatie.
+
+[ApplicationFolder]
+HeadT = Kies Applicatiemap
+HeadB = Selecteer een map voor de installatie.
+Text1 = Setup zal <appname> installeren in de map die hieronder getoond wordt.
+Text2 = Klik Volgende om verder te gaan. Klik Blader om een andere map te kiezen.
+Text3 = Vereiste vrije ruimte:
+Text4 = Beschikbare vrije ruimte:
+
+[StartMenuFolder]
+HeadT = Kies Startmenu Map
+HeadB = Waar moet Setup de snelkoppelingen voor het programma plaatsen?
+Text1 = Setup zal de snelkoppelingen voor het programma in de map plaatsen die hieronder getoond wordt.
+Text2 = Klik Volgende om verder te gaan. Klik Blader om een andere map te kiezen.
+
+[AdditionalTasks]
+HeadT = Kies Bijkomende Taken
+HeadB = Welke bijkomende taken moeten uitgevoerd worden?
+Text1 = Kies de bijkomende taken die Setup moet uitvoeren tijdens de installatie van <appname>, en klik dan Volgende.
+Text2 = Bijkomende iconen:
+
+[Installing]
+HeadT = Bezig met installeren
+HeadB = Gelieve te wachten terwijl Setup <appname> op je computer installeert.
+Text1 = Installatie voorbereiden..
+Text2 = Bezig met installeren..
+Text3 = Bezig met instellen..
+
+[Finish]
+Title = Einde van de <appname> Installatiewizard
+Text1 = Setup heeft <appname> op je computer geïnstalleerd. Klik Einde om Setup te verlaten.
+
+[SerialCheck]
+HeadT = Gebruikersinformatie
+HeadB = Geef a.u.b. je informatie in.
+Text1 = Gebruikersnaam:
+Text2 = Organisatie:
+Text3 = Serienummer:
+
+[Uninstall]
+Header = Status van het verwijderen
+Header_b = Wacht a.u.b. terwijl <appname> van je computer wordt verwijderd.
+Uninstalling = Bezig met verwijderen
+Btn_cancel = Annuleer
+ExitUninstall_T = Verwijder
+ExitUninstall = Wil je het verwijderen beëindigen?
+Success_T = Verwijder
+Success = <appname> is van je computer verwijderd!
+BM_T = Verwijder
+BM = Wil je <appname> van je computer verwijderen?

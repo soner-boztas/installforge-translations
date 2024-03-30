@@ -1,0 +1,86 @@
+﻿// Written by Linasmi, 2016
+// Lithuanian language file for InstallForge
+
+[Main]
+Title = Įdiegtis <appname>
+
+[Gadgets]
+NextBtn = Toliau >
+CancelBtn = Ašaukti
+BackBtn = < Atgal
+FinishBtn = Baigti
+BrowseBtn = Rinktis aplanką
+AcceptOptn = Aš sutinku su reikalavimais
+DoNotAcceptOptn = Aš nesutinku su reikalavimais
+CreateDesktopIconCbx = Sukurti nuorodą darbalaukyje
+CreateStartMenuFolderCbx = Sukurti meniu Pradėti aplanką
+LaunchProgramCbx = Paleisti programą
+RebootCbx = Perkrauti kompiuterį
+DestinationFolderFR3 = Paskirties aplankas
+SelAppFolder=Pasirinkite paskirties aplanką:
+SelStartMenuFolder=Pasirinkite meniu Pradėti aplanką:
+
+[Messages]
+ExitSetupH = Nutraukti diegimą
+ExitSetup = Ar jūs tikrai norite nutraukti diegimą?
+CouldNotExtractFileH = Klaida
+CouldNotExtractFile = Nepavyko išpakuoti failo!
+
+[Start]
+Title = Jus sveikina <appname> diegimo programa
+Text = Diegimo programa įdiegs <appname> <appversion> Jūsų kompiuteryje. Prieš tęsiant diegimą, rekomenduojama uždaryti visas nereikalingas programas. Norėdami tęsti spauskite „Toliau“.
+
+[LicenceAgreement]
+HeadT = Licencinė sutartis
+HeadB = Prašome perskaityti šią informaciją prieš tęsdami diegimą.
+Text1 = Prašome perskaityti Licencijos sutartį. Prieš tęsdami diegimą Jūs turite sutikti su reikalavimais.
+
+[ApplicationFolder]
+HeadT = Rinkitės diegimo aplanką
+HeadB = Prašom, pasirinkite aplanką, kuriame bus įdiegta programa.
+Text1 = Diegimo programa įdiegs <appname> nurodytame žemiau aplanke.
+Text2 = Norėdami tęsti spauskite „Toliau“. Jei Jūs norite pasirinkti kitą aplanką, spauskite „Rinktis aplanką“.
+Text3 = Reikia vietos diske:
+Text4 = Laisvos vietos diske:
+
+[StartMenuFolder]
+HeadT = Rinkitės Meniu Pradėti aplanką
+HeadB = Kur diegimo programa turi sukurti programos nuorodas?
+Text1 = Diegimo programa sukurs programos nuorodas šiame aplanke.
+Text2 = Norėdami tęsti spauskite „Toliau“. Jūs norite pasirinkti kitą aplanką, spauskite „Rinktis aplanką“.
+
+[AdditionalTasks]
+HeadT = Rinkitės papildomas operacijas
+HeadB = Kokias papildomas operacijas jūs norite atlikti?
+Text1 = Rinkitės papildomas operacijas, kurias reikia atlikti diegiant <appname>, po to spauskite „Toliau“.
+Text2 = Papildomos piktogramos:
+
+[Installing]
+HeadT = Diegimas
+HeadB = Prašom palaukite, kol diegimo programa įdiegs <appname> Jūsų kompiuteryje.
+Text1 = Ruošiamasi diegimui..
+Text2 = Diegiama..
+Text3 = Konfigūruojama..
+
+[Finish]
+Title = Užbaigiamas programos <appname> diegimas
+Text1 = Programos <appname> diegimas Jūsų kompiuteryje baigtas. Norėdami išeiti iš diegimo programos, spauskite „Baigti.“
+
+[SerialCheck]
+HeadT = Informacija apie vartotoją
+HeadB = Prašom, įveskite informaciją apie save.
+Text1 = Vartotojo vardas:
+Text2 = Organizacijos pavadinimas:
+Text3 = Serijinis numeris:
+
+[Uninstall]
+Header = Išdiegimas
+Header_b = Prašom, palaukite kol <appname> bus pašalinta iš Jūsų kompiuterio.
+Uninstalling = Šalinama
+Btn_cancel = Atšaukti
+ExitUninstall_T = Pašalinti
+ExitUninstall = Ar jūs įsitikinę, jog norite išeiti iš išdiegimo programos?
+Success_T = Pašalinti
+Success = <appname> sėkmingai pašalinta iš Jūsų kompiuterio!
+BM_T = Pašalinti
+BM = Ar jūs norite pašalinti <appname> iš savo kompiuterio?

@@ -1,0 +1,86 @@
+﻿// Bahasa Indonesia untuk InstallForge
+// Dibuat pada: 2022-03-25 (oleh Rinnan Kanvas)
+
+[Main]
+Title= Instalasi <appname>
+
+[Gadgets]
+NextBtn = Berikutnya >
+CancelBtn = Batal
+BackBtn = < Kembali
+FinishBtn = Selesai
+BrowseBtn = Browse...
+AcceptOptn = Saya setujui Perjanjian di atas
+DoNotAcceptOptn = Saya menolak Perjanjian di atas
+CreateDesktopIconCbx = Buat ikon di desktop
+CreateStartMenuFolderCbx = Buat folder start menu
+LaunchProgramCbx = Jalankan
+RebootCbx = Reboot Komputer sekarang
+DestinationFolderFR3 = Folder tujuan
+SelAppFolder=Pilih Folder Aplikasi:
+SelStartMenuFolder=Pilih Folder Start Menu:
+
+[Messages]
+ExitSetupH = Keluar dari Instalasi
+ExitSetup = Apa anda ingin membatalkan instalasi?
+CouldNotExtractFileH = Error
+CouldNotExtractFile = Tidak dapat mengekstrak file!
+
+[Start]
+Title = Selamat datang di Instalasi <appname>
+Text = Ini akan menginstal <appname> <appversion> di komputer Kamu. Kamu disarankan untuk menutup semua aplikasi lain sebelum melanjutkan. Klik Berikutnya untuk melanjutkan.
+
+[LicenceAgreement]
+HeadT = Perjanjian lisensi
+HeadB = Baca informasi penting berikut sebelum melanjutkan.
+Text1 = Silakan baca Perjanjian Lisensi berikut. Kamu harus menerima persyaratan perjanjian ini sebelum melanjutkan penginstalan.
+
+[ApplicationFolder]
+HeadT = Pilih Folder Aplikasi
+HeadB = Silakan pilih direktori untuk instalasi.
+Text1 = Instalasi akan menginstal <appname> di folder di bawah ini.
+Text2 = Untuk melanjutkan, klik Berikutnya. Jika Kamu ingin memilih folder lain, klik Browse.
+Text3 = Ruang kosong yang diperlukan:
+Text4 = Ruang kosong yang tersedia:
+
+[StartMenuFolder]
+HeadT = Pilih Folder Start Menu
+HeadB = Di mana Instalasi harus menempatkan pintasan program?
+Text1 = Instalasi akan membuat shortcut program di Folder Start Menu berikut.
+Text2 = Untuk melanjutkan, klik Berikutnya. Jika Kamu ingin memilih folder lain, klik Browse.
+
+[AdditionalTasks]
+HeadT = Pilih Opsi Tambahan
+HeadB = Opsi tambahan apa yang harus dilakukan?
+Text1 = Pilih opsi tambahan yang ingin Kamu lakukan saat menginstal <appname>, lalu klik Berikutnya.
+Text2 = Ikon tambahan:
+
+[Installing]
+HeadT = Menginstal
+HeadB = Harap tunggu sementara Instalasi menginstal <appname> di komputer Kamu.
+Text1 = Bersiap untuk menginstal...
+Text2 = Menginstal...
+Text3 = Mengonfigurasi...
+
+[Finish]
+Title = <appname> Telah Selsai di Install
+Text1 = Instalasi telah selesai menginstal <appname> di komputer Kamu. Klik Selesai untuk keluar dari Instalasi.
+
+[SerialCheck]
+HeadT = Informasi Pengguna
+HeadB = Silakan masukkan informasi Kamu.
+Text1 = Nama Pengguna:
+Text2 = Organisasi:
+Text3 = Nomor Seri:
+
+[Uninstall]
+Header = Status Uninstall
+Header_b = Harap tunggu sementara <appname> dihapus dari komputer Kamu.
+Uninstalling = Uninstalling
+Btn_cancel = Batal
+ExitUninstall_T = Uninstall
+ExitUninstall = Apakah Kamu ingin keluar dari Uninstall?
+Success_T = Uninstall
+Success = <appname> berhasil dihapus dari komputer Kamu!
+BM_T = Uninstall
+BM = Apakah Kamu ingin menghapus <appname> dari komputer Kamu?

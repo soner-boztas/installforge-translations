@@ -1,0 +1,85 @@
+// Swedish language file for InstallForge
+
+[Main]
+Title= <appname> Installation
+
+[Gadgets]
+NextBtn = Nästa >
+CancelBtn = Avbryt
+BackBtn = < Tillbaka
+FinishBtn = Klar
+BrowseBtn = Bläddra...
+AcceptOptn = Jag godkänner avtalet
+DoNotAcceptOptn = Jag godkänner inte avtalet
+CreateDesktopIconCbx = Skapa skrivbordsikon
+CreateStartMenuFolderCbx = Skapa mapp i startmenyn
+LaunchProgramCbx = Starta
+RebootCbx = Starta om datorn nu
+DestinationFolderFR3 = Målmapp
+SelAppFolder = Välj programmapp:
+SelStartMenuFolder=Välj mapp i startmenyn:
+
+[Messages]
+ExitSetupH = Avsluta installationen
+ExitSetup = Vill du avbryta installationen?
+CouldNotExtractFileH = Fel
+CouldNotExtractFile = Kunde inte packa upp filen!
+
+[Start]
+Title = Välkommen till installationen av <appname>!
+Text = Detta kommer att installera <appname> <appversion> på din dator. Du rekommenderas att stänga alla andra program innan du fortsätter. Klicka Nästa för att fortsätta.
+
+[LicenceAgreement]
+HeadT = Licensavtal
+HeadB = Läs följande viktiga information innan du fortsätter.
+Text1 = Vänligen läs följande licensavtal. Du måste godkänna villkoren i detta licensavtal innan du kan fortsätta med installationen.
+
+[ApplicationFolder]
+HeadT = Välj programmapp.
+HeadB = Vänliga välj installationsmapp.
+Text1 = <appname> kommer att installeras i mappen nedan.
+Text2 = För att fortsätta, klicka Nästa. Om du vill välja en annan mapp, klicka Bläddra.
+Text3 = Nödvändigt ledigt utrymme:
+Text4 = Tillgänligt ledigt utrymme:
+
+[StartMenuFolder]
+HeadT = Välj mapp i startmenyn
+HeadB = Var ska installationen placera programmets genvägar?
+Text1 = Installationen kommer att skapa programmets genvägar i denna mapp i startmenyn.
+Text2 = För att fortsätta, klicka Nästa. Om du vill välja en annan mapp, klicka Bläddra.
+
+[AdditionalTasks]
+HeadT = Välj ytterligare uppgifter
+HeadB = Vilka ytterligare uppgifter bör utföras?
+Text1 = Välj de ytterligare uppgifter som du vill att installationen ska utföra när du installerar <appname> och klicka sedan på Nästa.
+Text2 = Ytterligare ikoner:
+
+[Installing]
+HeadT = Installerar
+HeadB = Vänligen vänta medan <appname> installeras på din dator.
+Text1 = Förbereder installationen...
+Text2 = Installerar...
+Text3 = Konfigurerar...
+
+[Finish]
+Title = Slutför installationen av <appname>
+Text1 = <appname> har installerats på din dator. Klicka på Klar för att avsluta.
+
+[SerialCheck]
+HeadT = Användarinformation
+HeadB = Vänligen ange din information.
+Text1 = Användarnamn:
+Text2 = Organisation:
+Text3 = Serienummer:
+
+[Uninstall]
+Header = Avinstallationens status
+Header_b = Vänliga vänta medan <appname> tas bort från din dator.
+Uninstalling = Avinstallerar
+Btn_cancel = Avbryt
+ExitUninstall_T = Avinstallera
+ExitUninstall = Vill du avsluta avinstallationen?
+Success_T = Avinstallera
+Success = <appname> avinstallerades från din dator.
+BM_T = Avinstallera
+BM = Vill du ta bort <appname> från din dator?

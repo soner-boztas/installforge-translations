@@ -1,0 +1,86 @@
+﻿// (C) 2019 Chris K. (On behalf of InstallForge)
+// Romanian language file for InstallForge.
+
+[Main]
+Title=<appname> Înființat
+
+[Gadgets]
+NextBtn = Următor >
+CancelBtn = Anulare
+BackBtn = < Înapoi
+FinishBtn = finalizarea
+BrowseBtn = Naviga...
+AcceptOptn = Accept acordul
+DoNotAcceptOptn = nu accept intelegerea
+CreateDesktopIconCbx = Creaza o iconita pe pagina de start
+CreateStartMenuFolderCbx = Creează un dosar meniu de start
+LaunchProgramCbx = Lansa
+RebootCbx = restartează calculatorul acum
+DestinationFolderFR3 = Dosar de destinație
+SelAppFolder= Selectați dosarul Aplicație:
+SelStartMenuFolder= Selectați Start Menu Folder:
+
+[Messages]
+ExitSetupH = Ieșiți din Setup
+ExitSetup = Doriți să anulați instalarea?
+CouldNotExtractFileH = Eroare
+CouldNotExtractFile = Nu am putut extrage fișierul!
+
+[Start]
+Title = Bine ați venit la <appname> Setup Wizard
+Text = Acest lucru se va instala <appname> <appversion> pe computer. Se recomandă să închideți toate celelalte aplicații înainte de a continua. Faceți clic pe Înainte pentru a continua.
+
+[LicenceAgreement]
+HeadT = Acord de licențiere
+HeadB = Citiți următoarele informații importante înainte de a continua.
+Text1 = Vă rugăm să citiți următorul Acord de licență. trebuie să acceptați termenii acestui acord înainte de a continua cu instalarea.
+
+[ApplicationFolder]
+HeadT = Selectați dosarul Aplicație
+HeadB = Vă rugăm să alegeți directorul pentru instalare.
+Text1 = Setup va instala <appname> în dosarul prezentat mai jos.
+Text2 = Pentru a continua, faceți clic pe Următorul. Dacă doriți să selectați un alt folder, faceți clic pe Browse.
+Text3 = Necesar de spațiu liber:
+Text4 = spațiu liber:
+
+[StartMenuFolder]
+HeadT = Selectați Start Menu Folder
+HeadB = În cazul în care ar trebui să plaseze Setup comenzi rapide programului?
+Text1 = Setup va crea comenzi rapide ale programului în următorul director din meniul Start.
+Text2 = Pentru a continua, faceți clic pe Următorul. Dacă doriți să selectați un alt folder, faceți clic pe Browse.
+
+[AdditionalTasks]
+HeadT = Selectați Sarcini suplimentare
+HeadB = Ce sarcini suplimentare ar trebui să fie efectuate?
+Text1 = Selectați sarcinile suplimentare pe care le-ar dori de configurare pentru a efectua în timp ce instalarea <appname>, apoi faceți clic pe Următorul.
+Text2 = Pictograme adiționale:
+
+[Installing]
+HeadT = instalarea
+HeadB = Vă rugăm să așteptați în timp ce de instalare instalează <appname> pe computer.
+Text1 = Pregătirea pentru a instala ..
+Text2 = Instalarea ..
+Text3 = Configurarea ..
+
+[Finish]
+Title = Finalizarea <appname> Setup Wizard
+Text1 = Programul de configurare a terminat instalarea <appname> pe computer. Faceți clic pe Finish pentru a ieși din Setup.
+
+[SerialCheck]
+HeadT = Informații despre utilizator
+HeadB = Vă rugăm să introduceți informațiile.
+Text1 = Nume de utilizator:
+Text2 = Organizare:
+Text3 = Număr de serie:
+
+[Uninstall]
+Header = Starea de dezinstalare
+Header_b = Vă rugăm să așteptați în timp ce <appname> este eliminat de pe computer.
+Uninstalling = dezinstalează
+Btn_cancel = Anulare
+ExitUninstall_T = Dezinstalați
+ExitUninstall = Doriți să ieșiți de dezinstalare?
+Success_T = Dezinstalați
+Success = <appname> a fost eliminat cu succes de pe computer!
+BM_T = Dezinstalați
+BM = Doriți să eliminați <appname> de pe computer?

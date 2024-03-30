@@ -1,0 +1,87 @@
+﻿// (C) 2006 GG
+// French language file for InstallForge
+// Last updated: 2020-05-01 (by solicus)
+
+[Main]
+Title = <appname> Setup
+
+[Gadgets]
+NextBtn = Suivant >
+CancelBtn = Annuler
+BackBtn = < Précédent
+FinishBtn = Terminer
+BrowseBtn = Parcourir...
+AcceptOptn = J'accepte le règlement
+DoNotAcceptOptn = Je n'accepte pas le règlement
+CreateDesktopIconCbx = Créer l'icône sur le bureau
+CreateStartMenuFolderCbx = Créer un dossier dans le menu démarrer
+LaunchProgramCbx = Lancer
+RebootCbx = Rebooter l'ordinateur maintenant
+DestinationFolderFR3 = Dossier de destination
+SelAppFolder=Selectionner le dossier de l'application:
+SelStartMenuFolder=Selectionner le dossier du menu démarrer:
+
+[Messages]
+ExitSetupH = Sortie de l'installation
+ExitSetup = Voulez-vous abandonner l'installation?
+CouldNotExtractFileH = Erreur
+CouldNotExtractFile = Ne peut pas extraire le fichier!
+
+[Start]
+Title = Bienvenue dans le configurateur d'installation de <appname>
+Text = <appname> <appversion> va être installé sur votre ordinateur. Il est recommandé de fermer toute application avant de continuer. Cliquer sur suivant pour continuer.
+
+[LicenceAgreement]
+HeadT = Description de la licence
+HeadB = Lisez les informations importantes suivantes avant de continuer.
+Text1 = Veuillez lire le règlement de la licence. Vous devez accepter les termes de ce règlement avant de procéder à l'installation.
+
+[ApplicationFolder]
+HeadT = Selectionnez le dossier de l'application.
+HeadB = Veuillez choisir le répertoire d'installation.
+Text1 = Le programme va procéder à l'installation de <appname> dans le dossier ci dessous.
+Text2 = Pour continuer, cliquez sur suivant. Si vous souhaitez sélectionner un dossier différent, cliquez sur parcourir.
+Text3 = Espace libre requis:
+Text4 = Espace libre disponible:
+
+[StartMenuFolder]
+HeadT = Sélectionnez le dossier du menu démarrer
+HeadB = Où souhaitez vous que le programme d'installation place les raccourcis du programme?
+Text1 = Le programme d'installation va créer les raccourcis du programme dans le dossier menu démarrer suivant.
+Text2 = Pour continuer, cliquez sur suivant. Si vous souhaitez sélectionner un dossier différent, cliquez sur parcourir.
+
+[AdditionalTasks]
+HeadT = Selectionnez des tâches additionnelles.
+HeadB = Quels sont les modules additionnels qui doivent être utilisés?
+Text1 = Sélectionnez les modules additionnels que vous voudriez voir installés pendant l'installation de <appname>, puis cliquez sur suivant.
+Text2 = Icônes additionnelles:
+
+[Installing]
+HeadT = Installation en cours
+HeadB = Veuillez patienter pendant que le programme installe <appname> sur votre ordinateur.
+Text1 = Preparation de l'installation...
+Text2 = Installation en cours...
+Text3 = Configuration en cours...
+
+[Finish]
+Title = Finalise le configurateur d'installation de <appname>
+Text1 = Le programme a terminé d'installer <appname> sur votre ordinateur. Cliquez sur terminer pour sortir du programme.
+
+[SerialCheck]
+HeadT = Information utilisateur
+HeadB = Veuillez saisir vos informations.
+Text1 = Nom utilisateur:
+Text2 = Organisation:
+Text3 = Numéro de Série:
+
+[Uninstall]
+Header = Etat de la désinstallation
+Header_b = Veuillez patienter pendant que <appname> est supprimé de votre ordinateur.
+Uninstalling = Désinstallation en cours
+Btn_cancel = Annuler
+ExitUninstall_T = Désinstaller
+ExitUninstall = Voulez-vous sortir de la désinstallation?
+Success_T = Désinstallation
+Success = <appname> a été désinstallé de votre ordinateur avec succès!
+BM_T = Désinstaller
+BM = Voulez-vous désinstaller <appname> de votre ordinateur?
