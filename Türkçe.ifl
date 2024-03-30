@@ -1,0 +1,86 @@
+﻿// (C) 2011 solicus
+// Turkish language file for InstallForge
+
+[Main]
+Title = <appname> Setup
+
+[Gadgets] 
+NextBtn = İleri >
+CancelBtn = İptal
+BackBtn = < Geri
+FinishBtn = Hazır
+BrowseBtn = Ara...
+AcceptOptn = Ben lisans koşullarını kabul ediyorum
+DoNotAcceptOptn = Ben lisans koşullarını kabul etmiyorum
+CreateDesktopIconCbx = Desktop kısayolu oluştur
+CreateStartMenuFolderCbx = Menü kısayolu oluştur
+LaunchProgramCbx = Başlat
+RebootCbx = Yeniden başlat
+DestinationFolderFR3 = Hedef klasör
+SelAppFolder= Klasör seç:
+SelStartMenuFolder= Menü klasör seç
+
+[Messages]
+ExitSetupH = İptal
+ExitSetup = Kurulumu iptal etmek istediğinizden emin misiniz?
+CouldNotExtractFileH = Hata
+CouldNotExtractFile = Dosya yüklenemedi
+
+[Start]
+Title = <appname> kurulum asistanda hoş geldiniz
+Text = Bu kurulum asistanı <appname> <appversion> kuracaktır. Kurulum ile devam etmedenönce diğer tüm programları bırakmalısınız.
+
+[LicenceAgreement]
+HeadT = Lisans anlaşması
+HeadB = Devam etmeden önce aşağıdaki önemli bilgileri okuyunuz.
+Text1 = Aşağıdaki lisans sözleşmesini okuyunuz. Devam etmeden önce lisans sözleşmesinikabul etmeniz gerekir.
+
+[ApplicationFolder]
+HeadT = Klasör seç
+HeadB = Kurulum için program klasörünü seçiniz.
+Text1 = Kurulum asistanı aşağıdaki klasörde <appname> kuracaktır.
+Text2 = Farklı bir klasör için, Ara tıklayınız.
+Text3 = Gerekli bellek:
+Text4 = Boş bellek:
+
+[StartMenuFolder]
+HeadT = Menü klasör seç
+HeadB = Kısayollar nerede oluşturulsun?
+Text1 = Kurulum aşağıdaki klasörde kısayolları oluşturacaktır.
+Text2 = Farklı bir klasör için, Ara tıklayınız.
+
+[AdditionalTasks] 
+HeadT = Ek Görevler seç
+HeadB = Ne ek görevleri icra edilmelidir?
+Text1 = Ek görevleri seçiniz ve İleri tıklayınız.
+Text2 = Ek sembolleri: 
+
+[Installing] 
+HeadT = Yükleniyor
+HeadB = <appname> yükleniyor. Lütfen bekleyin.
+Text1 = Kurulum hazırlaniyor... 
+Text2 = Yükleniyor...
+Text3 = Ayarlanıyor...
+
+[Finish] 
+Title = <appname> kurulum asistan tamamlanmak
+Text1 = <appname> bilgisayara yüklenmiştir. Asistanı kapatmak için, lütfen Hazır tıklayınız.
+
+[SerialCheck]
+HeadT = Kullanıcı bilgileri
+HeadB = Lütfen bilgilerinizi verin.
+Text1 = Ad:
+Text2 = Şirket:
+Text3 = Seri Numarası:
+
+[Uninstall]
+Header = Kaldırma
+Header_b = <appname> bilgisayarınızdan kaldırılıyor. Lütfen bekleyin.
+Uninstalling = Kaldırılıyor
+Btn_cancel = İptal
+ExitUninstall_T = Kaldırma
+ExitUninstall = Kaldırmayı iptal etmek istediğinizden emin misiniz?
+Success_T = Kaldırma
+Success = <appname> bilgisayarınızdan başarıyla kaldırıldı!
+BM_T = Kaldırma
+BM = Bilgisayarınızdan <appname> kaldırmak istiyormusunuz?

@@ -1,0 +1,87 @@
+﻿// Hebrew language file for InstallForge
+//
+// Last updated: 2021-03-01 (by IA)
+
+[Main]
+Title= <appname> התקנה
+
+[Gadgets]
+NextBtn = הבא
+CancelBtn = ביטול
+BackBtn = הקודם
+FinishBtn = סיום
+BrowseBtn = בחר...
+AcceptOptn = אני מאשר את תנאי השימוש
+DoNotAcceptOptn = אני לא מאשר את תנאי השימוש
+CreateDesktopIconCbx = צור סמל בשולחן העבודה
+CreateStartMenuFolderCbx = צור תיקייה בתפריט ההתחל
+LaunchProgramCbx = הפעל
+RebootCbx = כבה את המחשב עכשיו
+DestinationFolderFR3 = תיקיית יעד
+SelAppFolder=בחר תיקייה עבור התוכנה:
+SelStartMenuFolder=בחר תיקייה עבור תפריט ההתחלה:
+
+[Messages]
+ExitSetupH = יציאה ממהתקנה
+ExitSetup = האם אתה בטוח שאתה רוצה לבטל את ההתקנה?
+CouldNotExtractFileH = שגיאה
+CouldNotExtractFile = לא ניתן לחלץ את הקובץ!
+
+[Start]
+Title = ברוכים הבאים להתקנה של <appname>
+Text = זה יתקין את <appname> <appversion> על המחשב שלך. מומלץ שתסגור את כל שאר התוכנות לפני שתמשיך. לחץ על הבא כדי להמשיך.
+
+[LicenceAgreement]
+HeadT = הסכם רישיון
+HeadB = קרא את ההסכם בכובד ראש לפני שתמשיך.
+Text1 = בבקשה קרא את תנאי הרישיון. אתה חייב לאשרם על מנת להמשיך בהתקנה.
+
+[ApplicationFolder]
+HeadT = בחר את תיקיית התוכנה
+HeadB = בחר את התיקייה עבור ההתקנה
+Text1 = ההתקנה תתקין את <appname> בתיקייה המוצגת למטה.
+Text2 = כדי להמשיך לחץ הבא. אם ברצונך לבחור תיקייה אחרת לחץ בחר.
+Text3 = מקום פנוי נדרש:
+Text4 = מקום פנוי זמין:
+
+[StartMenuFolder]
+HeadT = בחר תיקיית תפריט ההתחלה
+HeadB = היכן התוכנה תמקם קיצורי דרך?
+Text1 = ההתקנה תמקם בתפריט ההתחל את קיצורי הדרך.
+Text2 = כדי להמשיך לחץ על הבא. אם תרצה לבחור תיקייה אחרת לחץ על בחר.
+
+[AdditionalTasks]
+HeadT = בחר משימות נוספות
+HeadB = איזה משימות נוספות צריכות להתבצע?
+Text1 = בחר משימות נוספות שאתה רוצה שההתקנה תבצע בזמן התקנת <appname> ולחץ הבא.
+Text2 = סמלים נוספים:
+
+[Installing]
+HeadT = מתקין
+HeadB = אנא המתן בזמן שההתקנה מתקינה את <appname> במחשבך.
+Text1 = מתכונן להתקנה...
+Text2 = מתקין...
+Text3 = מגדיר...
+
+[Finish]
+Title = מסיים את ההתקנה של <appname>
+Text1 = ההתקנה של <appname> הסתיימה. לחץ בבקשה על סיום כדי לצאת.
+
+[SerialCheck]
+HeadT = מידע משתמש
+HeadB = הכנס בבקשה את המידע שלך
+Text1 = שם משתמש:
+Text2 = ארגון:
+Text3 = מספר סידורי:
+
+[Uninstall]
+Header = מצב מסיר ההתקנה
+Header_b = אנא המתן בזמן ש<appname> מוסר מהמחשב שלך.
+Uninstalling = מסיר את ההתקנה
+Btn_cancel = ביטול
+ExitUninstall_T = הסר התקנה
+ExitUninstall = האם אתה רוצה לצאת ממסיר ההתקנה?
+Success_T = הסר התקנה
+Success = <appname> נמחק בהצלחה ממהמחשב שלך.
+BM_T = הסר התקנה
+BM = האם אתה רוצה למחוק את <appname> מהמחשב שלך?

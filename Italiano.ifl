@@ -1,0 +1,86 @@
+﻿// (C) 2006 oridan
+// Italian language file for InstallForge
+
+[Main]
+Title = <appname> Setup
+
+[Gadgets]
+NextBtn = Avanti >
+CancelBtn = Annulla
+BackBtn = < Indietro
+FinishBtn = Fine
+BrowseBtn = Sfoglia...
+AcceptOptn = Accetto i termini del contratto di licenza
+DoNotAcceptOptn = Non accetto i termini del contratto di licenza
+CreateDesktopIconCbx = Crea un'icona sul desktop
+CreateStartMenuFolderCbx = Crea la cartella nel menu Start
+LaunchProgramCbx = Esegui
+RebootCbx = Riavvia il computer adesso
+DestinationFolderFR3 = Cartella di destinazione
+SelAppFolder=Seleziona la cartella per l'applicazione:
+SelStartMenuFolder=Seleziona la cartella del menu Start:
+
+[Messages]
+ExitSetupH = Installazione
+ExitSetup = Sei sicuro di voler interrompere l'installazione?
+CouldNotExtractFileH = Errore
+CouldNotExtractFile = Impossibile estrarre il file!
+
+[Start]
+Title = Benvenuti nel programma di  installazione di <appname>
+Text =  <appname> <appversion> sarà installato sul tuo computer. Si consiglia di chiudere tutte le applicazioni attive prima di proseguire. Premere Avanti per continuare.
+
+[LicenceAgreement]
+HeadT = Contratto di licenza
+HeadB = Leggere con attenzione le informazioni che seguono prima di procedere.
+Text1 = Leggere il seguente contratto di licenza. E' necessario accettare tutti i termini del contratto per procedere con l'installazione.
+
+[ApplicationFolder]
+HeadT = Selezione della cartella di installazione
+HeadB = Scegliere la cartella di installazione.
+Text1 =  <appname> sarà installato nella seguente cartella.
+Text2 = Per continuare, premere Avanti. Per selezionare un'altra cartella, premere Sfoglia.
+Text3 = Spazio libero richiesto:
+Text4 = Spazio libero disponibile:
+
+[StartMenuFolder]
+HeadT = Selezione della cartella di programma
+HeadB = Selezionare una cartella di programma
+Text1 = L'installazione aggiungerà le icone dei programmi alla cartella di programma.
+Text2 = Per continuare, premere Avanti. Per selezionare un'altra cartella, premere Sfoglia.
+
+[AdditionalTasks]
+HeadT = Selezione processi addizionali
+HeadB = Quali processi aggiuntivi si vogliono avviare?
+Text1 = Selezionare i processi aggiuntivi che verranno eseguiti durante l'installazione di  <appname> , quindi premere Avanti.
+Text2 = Icone aggiuntive:
+
+[Installing]
+HeadT = Installazione
+HeadB = Attendere mentre la procedura di installazione installa <appname> nel tuo computer.
+Text1 = Preparazione dell'installazione...
+Text2 = Installazione in corso...
+Text3 = Configurazione in corso...
+
+[Finish]
+Title = Completamento dell'installazione di <appname>
+Text1 = La procedura guidata ha terminato l'installazione di <appname> sul tuo computer. Premere Fine per uscire dall'installazione.
+
+[SerialCheck]
+HeadT = Informazioni utente
+HeadB = Inserire le informazioni richieste.
+Text1 = Nome utente:
+Text2 = Società:
+Text3 = Numero seriale:
+
+[Uninstall]
+Header = Stato della disinstallazione
+Header_b = Attendere mentre <appname> verrà rimosso dal tuo computer.
+Uninstalling = Disinstallazione di
+Btn_cancel = Annulla
+ExitUninstall_T = Disinstallazione
+ExitUninstall = Vuoi uscire dalla procedura di disinstallazione?
+Success_T = Disinstallazione
+Success = <appname> è stato rimosso con successo dal tuo computer!
+BM_T = Disinstallazione
+BM = Sei sicuro di voler rimuovere <appname> dal tuo computer? 
