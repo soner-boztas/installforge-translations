@@ -1,0 +1,85 @@
+﻿// Korean language file for InstallForge by wincmd
+
+[Main]
+Title= <appname> 설치
+
+[Gadgets]
+NextBtn = 다음 >
+CancelBtn = 취소
+BackBtn = < 뒤로
+FinishBtn = 종료
+BrowseBtn = 참조
+AcceptOptn = 동의하다
+DoNotAcceptOptn=동의하지 않음
+CreateDesktopIconCbx = 바탕화면에 아이콘 만들기
+CreateStartMenuFolderCbx = 시작 메뉴에 폴더 만들기
+LaunchProgramCbx = 시작
+RebootCbx = 재부팅
+DestinationFolderFR3 = 대상 폴더
+SelAppFolder=응용 프로그램 폴더 선택:
+SelStartMenuFolder=시작 메뉴 폴더 선택:
+
+[Messages]
+ExitSetupH = 설치 종료
+ExitSetup = 설치를 중지 하시겠습니까?
+CouldNotExtractFileH=오류
+CouldNotExtractFile = 파일을 확장할 수 없습니다.
+
+[Start]
+Title = 시작<appname>설치 마법사
+Text = <appname> <appversion>을 컴퓨터에 설치합니다. 다른 응용 프로그램을 모두 종료한 다음 계속하는 것이 좋습니다. 다음을 클릭하여 계속하십시오.
+
+[LicenceAgreement]
+HeadT = 라이센스 계약
+HeadB = 계속하기 전에 다음 중요한 정보를 읽으십시오.
+Text1 = 다음 사용권 계약을 읽으십시오. 설치를 계속하기 전에 이 계약의 조항에 동의해야 합니다. .
+
+[ApplicationFolder]
+HeadT = 응용프로그램 폴더 선택
+HeadB = 설치할 디렉토리를 선택하십시오.
+Text1 = 초기 상태에서는 <appname> 다음 폴더에 설치됩니다. .
+Text2 = 계속하려면 [다음]을 클릭합니다. 다른 폴더를 선택하려면 찾아보기를 클릭합니다.
+Text3 = 필요한 여유 공간:
+Text4 = 사용 가능한 여유 공간:
+
+[StartMenuFolder]
+HeadT = 시작 메뉴 폴더 선택
+HeadB = 설치에서 프로그램 바로 가기를 어디에 설치합니까?
+Text1 = 설치는 다음 시작 메뉴 폴더에 프로그램 바로 가기를 만듭니다.
+Text2 = 계속하려면 다음을 클릭합니다. 다른 폴더를 선택하려면 찾아보기를 클릭합니다.
+
+[AdditionalTasks]
+HeadT = 추가 작업 선택
+HeadB = 추가로 수행해야 할 작업은 무엇입니까?
+Text1 = <appname>을 설치할 때 설치 추가할 작업을 선택하고 다음을 클릭합니다.
+Text2 = 추가 아이콘:
+
+[Installing]
+HeadT = 설치 중 ..
+HeadB = <appname>이 설치될 때까지 기다리십시오.
+Text1 = 설치 준비 중 ...
+Text2 = 설치 중 ...
+Text3 = 설정 중 ...
+
+[Finish]
+Title = <appname> 설치 마법사 완료
+Text1 = 설정으로 <appname> 설치가 종료되었습니다. [종료]을 클릭하여 설정을 종료합니다.
+
+[SerialCheck]
+HeadT = 사용자 정보
+HeadB = 정보를 입력하십시오.
+Text1 = 사용자 이름:
+Text2 = 조직도:
+Text3 = 일련 번호
+
+[Uninstall]
+Header = 제거 상태
+Header_b = <appname>이 컴퓨터에서 제거될 때까지 기다리십시오.
+Uninstalling=제거 중
+Btn_cancel = 취소
+ExitUninstall_T = 제거
+ExitUninstall = 제거를 종료하시겠습니까?
+Success_T = 제거
+Success = <appname>이 컴퓨터에서 성공적으로 제거되었습니다.
+BM_T = 제거
+BM = <appname>을 컴퓨터에서 삭제하시겠습니까?
