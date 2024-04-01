@@ -1,0 +1,86 @@
+﻿// Finnish language file for InstallForge
+// Created by Jussi Hietanen
+
+[Main]
+Title= <appname>-asennusohjelma
+
+[Gadgets]
+NextBtn = Seuraava >
+CancelBtn = Peruuta
+BackBtn = < Takaisin
+FinishBtn = Lopeta
+BrowseBtn = Selaa...
+AcceptOptn = Hyväksyn käyttöehdot
+DoNotAcceptOptn = En hyväksy käyttöehtoja
+CreateDesktopIconCbx = Luo pikakuvake työpöydälle
+CreateStartMenuFolderCbx = Luo pikakuvake käynnistä-valikkoon
+LaunchProgramCbx = Käynnistä
+RebootCbx = Käynnistä uudelleen nyt
+DestinationFolderFR3 = Kohdekansio
+SelAppFolder=Valitse ohjelmakansio:
+SelStartMenuFolder=Valitse käynnistä-valikon kansio:
+
+[Messages]
+ExitSetupH = Poistu asennuksesta
+ExitSetup = Haluatko keskeyttää asennuksen?
+CouldNotExtractFileH = Virhe
+CouldNotExtractFile = Tiedostoa ei voitu purkaa!
+
+[Start]
+Title = Tervetuloa ohjelman <appname> asennukseen
+Text = Tämä asentaa ohjelman <appname> <appversion> tietokoneellesi. Sulje muut auki olevat ohjelmat ennen asennusta. Valitse Seuraava jatkaaksesi asennusta.
+
+[LicenceAgreement]
+HeadT = Lisenssisopimus
+HeadB = Lue seuraava tarkasti ennen jatkamista.
+Text1 = Lue seuraava loppukäyttäjän lisenssisopimus. Sinun tulee hyväksyä sopimuksen ehdot jatkaaksesi asennusta.
+
+[ApplicationFolder]
+HeadT = Valitse asennuskohde
+HeadB = Valitse kansio, johon ohjelma asennetaan.
+Text1 = Asennusohjelma asentaa <appname> allaolevaan kansioon.
+Text2 = Jos haluat asentaa sen johonkin toiseen kansioon, valitse Selaa, ja valitse toinen kohdekansio. Jatka valitsemalla Seuraava.
+Text3 = Tarvittava tila:
+Text4 = Tilaa vapaana:
+
+[StartMenuFolder]
+HeadT = Valitse käynnistä-valikon kansio
+HeadB = Minne asennettavan ohjelman pikakuvakkeet tulisi laittaa?
+Text1 = Asennus luo ohjelmalle pikakuvakkeet seuraavaan käynnistä-valikon kansioon.
+Text2 = Jos haluat käyttää toista kansiota, valitse Selaa, ja valitse toinen kohdekansio. Jatka valitsemalla Seuraava.
+
+[AdditionalTasks]
+HeadT = Lisävalinnat
+HeadB = Mitä lisävalintoja tulisi käyttää asennuksen aikana?
+Text1 = Valitse lisävalinnat ohjelman <appname> asennukseen, valitse sitten Seuraava.
+Text2 = Ylimääräiset ikonit:
+
+[Installing]
+HeadT = Asennetaan
+HeadB = Odota, asennetaan ohjelmaa <appname> tietokoneellesi.
+Text1 = Valmistellaan asennusta...
+Text2 = Asennetaan...
+Text3 = Määritetään asennusta...
+
+[Finish]
+Title = Viimeistellään ohjelman <appname> asennusta
+Text1 = Ohjelman <appname> asennus tietokoneellesi on valmis. Valitse Lopeta päättääksesi asennuksen.
+
+[SerialCheck]
+HeadT = Käyttäjän tiedot
+HeadB = Täytä käyttäjätietosi.
+Text1 = Käyttäjänimi:
+Text2 = Organisaatio:
+Text3 = Sarjanumero:
+
+[Uninstall]
+Header = Asennuksen poiston tila
+Header_b = Odota, ohjelmaa <appname> poistetaan tietokoneeltasi.
+Uninstalling = Poistetaan
+Btn_cancel = Peruuta
+ExitUninstall_T = Poista asennus
+ExitUninstall = Haluatko poistua asennuksen poistosta?
+Success_T = Poista asennus
+Success = <appname> poistettiin tietokoneeltasi!
+BM_T = Poista asennus
+BM = Haluatko poistaa ohjelman <appname> tietokoneeltasi?
