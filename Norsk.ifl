@@ -1,0 +1,85 @@
+// Norwegian language file for InstallForge
+
+[Main]
+Title= Installasjon av <appname> 
+
+[Gadgets]
+NextBtn = Neste >
+CancelBtn = Avbryt
+BackBtn = < Tilbake
+FinishBtn = Fullføre
+BrowseBtn = Bla gjennom...
+AcceptOptn = Jeg aksepterer avtalen
+DoNotAcceptOptn = Jeg godtar ikke avtalen
+CreateDesktopIconCbx = Opprett skrivebord-ikon
+CreateStartMenuFolderCbx = Opprett startmenymappe
+LaunchProgramCbx = Start
+RebootCbx = Start datamaskinen på nytt nå
+DestinationFolderFR3 = Destinasjonsmappe
+SelAppFolder = Velg programmappe:
+SelStartMenuFolder = Velg Start-menymappe:
+
+[Messages]
+ExitSetupH = Avslutt Installasjon
+ExitSetup = Vil du avbryte installasjonen?
+CouldNotExtractFileH = Feil
+CouldNotExtractFile = Kunne ikke pakke ut filen!
+
+[Start]
+Title = Velkommen Til <appname> Installasjonsprogramm
+Text = Dette installeres <appname> <appversion> på datamaskinen din. Det anbefales at du lukker alle andre programmer før du fortsetter. Klikk Neste for å fortsette.
+
+[LicenceAgreement]
+HeadT = Lisensavtalen
+HeadB = Les følgende viktige informasjon før du fortsetter.
+Text1 = Les følgende lisensavtale. Du må godta vilkårene i denne avtalen før du fortsetter med installasjonen.
+
+[ApplicationFolder]
+HeadT = Velg Programmappe
+HeadB = Velg veien for installasjonen.
+Text1 = Installasjonsprogrammet skal installere <appname> i mappen som vises nedenfor.
+Text2 = For å fortsette, klikk Neste. Hvis du vil velge en annen mappe, klikker du Bla gjennom.
+Text3 = Nødvendig ledig plass:
+Text4 = Tilgjengelig ledig plass:
+
+[StartMenuFolder]
+HeadT = Select Start Menu Folder
+HeadB = Where should Setup place the program's shortcuts?
+Text1 = Setup will create the program's shortcuts in the following Start Menu Folder.
+Text2 = To continue, click Next. If you would like to select a different folder, click Browse.
+
+[AdditionalTasks]
+HeadT = Select Additional Tasks
+HeadB = Which additional tasks should be performed?
+Text1 = Select the additional tasks you would like setup to perform while installing <appname>, then click Next.
+Text2 = Additional icons:
+
+[Installing]
+HeadT = Installing
+HeadB = Please wait while Setup installs <appname> on your computer.
+Text1 = Preparing to install...
+Text2 = Installing...
+Text3 = Configuring...
+
+[Finish]
+Title = Completing the <appname> Setup Wizard
+Text1 = Setup has finished installing <appname> on your computer. Click Finish to exit Setup.
+
+[SerialCheck]
+HeadT = User Information
+HeadB = Please enter your information.
+Text1 = User Name:
+Text2 = Organization:
+Text3 = Serial Number:
+
+[Uninstall]
+Header = Uninstall Status
+Header_b = Please wait while <appname> is removed from your computer.
+Uninstalling = Uninstalling
+Btn_cancel = Cancel
+ExitUninstall_T = Uninstall
+ExitUninstall = Do you want to exit uninstall?
+Success_T = Uninstall
+Success = <appname> was successfully removed from your computer!
+BM_T = Uninstall
+BM = Do you want to remove <appname> from your computer?
