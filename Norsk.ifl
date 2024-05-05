@@ -43,43 +43,43 @@ Text3 = Nødvendig ledig plass:
 Text4 = Tilgjengelig ledig plass:
 
 [StartMenuFolder]
-HeadT = Select Start Menu Folder
-HeadB = Where should Setup place the program's shortcuts?
-Text1 = Setup will create the program's shortcuts in the following Start Menu Folder.
-Text2 = To continue, click Next. If you would like to select a different folder, click Browse.
+HeadT = Velg Start-menymappe
+HeadB = Hvor skal installasjonsprogrammet plassere programmets snarveier?
+Text1 = Installasjonsprogrammet oppretter programmets snarveier i følgende Start-menymappe.
+Text2 = For å fortsette, klikk Neste. Hvis du vil velge en annen mappe, klikker du Bla gjennom.
 
 [AdditionalTasks]
-HeadT = Select Additional Tasks
-HeadB = Which additional tasks should be performed?
-Text1 = Select the additional tasks you would like setup to perform while installing <appname>, then click Next.
-Text2 = Additional icons:
+HeadT = Velg flere oppgaver.
+HeadB = Hvilke tilleggsoppgaver skal utføres?
+Text1 = Velg tilleggsoppgavene du vil at installasjonen skal utføre under installasjonen <appname>, og klikk deretter Neste.
+Text2 = Flere ikoner:
 
 [Installing]
-HeadT = Installing
-HeadB = Please wait while Setup installs <appname> on your computer.
-Text1 = Preparing to install...
-Text2 = Installing...
-Text3 = Configuring...
+HeadT = Installerer
+HeadB = Vent mens installasjonsprogrammet installeres <appname> på datamaskinen.
+Text1 = Forbereder å installere...
+Text2 = Installerer...
+Text3 = Konfigurerer...
 
 [Finish]
-Title = Completing the <appname> Setup Wizard
-Text1 = Setup has finished installing <appname> on your computer. Click Finish to exit Setup.
+Title = Fullføre <appname> installasjonsveiviseren.
+Text1 = Installasjonsprogrammet har installert <appname> på datamaskinen. Klikk Fullfør for å avslutte installasjonsprogrammet.
 
 [SerialCheck]
-HeadT = User Information
-HeadB = Please enter your information.
-Text1 = User Name:
-Text2 = Organization:
-Text3 = Serial Number:
+HeadT = Brukerinformasjon
+HeadB = Vennligst skriv inn din informasjon.
+Text1 = Brukernavn:
+Text2 = Organisasjon:
+Text3 = Serienummer:
 
 [Uninstall]
-Header = Uninstall Status
-Header_b = Please wait while <appname> is removed from your computer.
-Uninstalling = Uninstalling
-Btn_cancel = Cancel
-ExitUninstall_T = Uninstall
-ExitUninstall = Do you want to exit uninstall?
-Success_T = Uninstall
-Success = <appname> was successfully removed from your computer!
-BM_T = Uninstall
-BM = Do you want to remove <appname> from your computer?
+Header = Avinstallerings status
+Header_b = Vent mens <appname> den er fjernet fra datamaskinen.
+Uninstalling = Avinstallerer
+Btn_cancel = Avbryt
+ExitUninstall_T = Avinstaller
+ExitUninstall = Vil du avslutte avinstallasjonen?
+Success_T = Avinstaller
+Success = <appname> ble fjernet fra datamaskinen din!
+BM_T = Avinstaller
+BM = Vil du fjerne <appname> fra datamaskinen?
