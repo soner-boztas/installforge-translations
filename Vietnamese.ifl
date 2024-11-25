@@ -1,0 +1,87 @@
+﻿// Tệp ngôn ngữ tiếng Việt cho InstallForge
+// Cập nhật lần cuối: 2024-11-25 (bởi lphucdo)
+// lamubboy@gmail.com
+
+[Main]
+Title= Cài đặt <appname>
+
+[Gadgets]
+NextBtn = Tiếp theo >
+CancelBtn = Hủy bỏ
+BackBtn = < Quay lại
+FinishBtn = Hoàn tất
+BrowseBtn = Duyệt...
+AcceptOptn = Tôi chấp nhận thỏa thuận
+DoNotAcceptOptn = Tôi không chấp nhận thỏa thuận
+CreateDesktopIconCbx = Tạo biểu tượng trên màn hình
+CreateStartMenuFolderCbx = Tạo thư mục trong Menu Start
+LaunchProgramCbx = Mở chương trình
+RebootCbx = Khởi động lại máy tính ngay bây giờ
+DestinationFolderFR3 = Thư mục đích
+SelAppFolder = Chọn thư mục ứng dụng:
+SelStartMenuFolder = Chọn thư mục Menu Start:
+
+[Messages]
+ExitSetupH = Thoát Cài đặt
+ExitSetup = Bạn có muốn hủy bỏ việc cài đặt không?
+CouldNotExtractFileH = Lỗi
+CouldNotExtractFile = Không thể giải nén tệp!
+
+[Start]
+Title = Chào mừng bạn đến với Trình cài đặt <appname>
+Text = Trình cài đặt này sẽ cài đặt <appname> <appversion> trên máy tính của bạn. Bạn nên đóng tất cả các ứng dụng khác trước khi tiếp tục. Nhấn Tiếp theo để tiếp tục.
+
+[LicenceAgreement]
+HeadT = Thỏa thuận cấp phép
+HeadB = Đọc thông tin quan trọng sau đây trước khi tiếp tục.
+Text1 = Vui lòng đọc Thỏa thuận Cấp phép dưới đây. Bạn phải chấp nhận các điều khoản của thỏa thuận này trước khi tiếp tục cài đặt.
+
+[ApplicationFolder]
+HeadT = Chọn Thư mục Ứng dụng
+HeadB = Vui lòng chọn thư mục cài đặt.
+Text1 = Trình cài đặt sẽ cài đặt <appname> trong thư mục được chỉ định dưới đây.
+Text2 = Để tiếp tục, nhấn Tiếp theo. Nếu bạn muốn chọn thư mục khác, nhấn Duyệt.
+Text3 = Dung lượng trống yêu cầu:
+Text4 = Dung lượng trống có sẵn:
+
+[StartMenuFolder]
+HeadT = Chọn Thư mục Menu Start
+HeadB = Bạn muốn cài đặt các shortcut của chương trình ở đâu?
+Text1 = Trình cài đặt sẽ tạo các shortcut của chương trình trong thư mục Menu Start sau đây.
+Text2 = Để tiếp tục, nhấn Tiếp theo. Nếu bạn muốn chọn thư mục khác, nhấn Duyệt.
+
+[AdditionalTasks]
+HeadT = Chọn Các Nhiệm vụ Thêm
+HeadB = Các nhiệm vụ bổ sung cần thực hiện là gì?
+Text1 = Chọn các nhiệm vụ bổ sung mà bạn muốn trình cài đặt thực hiện trong khi cài đặt <appname>, sau đó nhấn Tiếp theo.
+Text2 = Các biểu tượng bổ sung:
+
+[Installing]
+HeadT = Đang cài đặt
+HeadB = Vui lòng đợi trong khi Trình cài đặt cài đặt <appname> trên máy tính của bạn.
+Text1 = Đang chuẩn bị cài đặt...
+Text2 = Đang cài đặt...
+Text3 = Đang cấu hình...
+
+[Finish]
+Title = Hoàn tất Trình cài đặt <appname>
+Text1 = Trình cài đặt đã hoàn tất cài đặt <appname> trên máy tính của bạn. Nhấn Hoàn tất để thoát khỏi trình cài đặt.
+
+[SerialCheck]
+HeadT = Thông tin người dùng
+HeadB = Vui lòng nhập thông tin của bạn.
+Text1 = Tên người dùng:
+Text2 = Tổ chức:
+Text3 = Số serial:
+
+[Uninstall]
+Header = Trạng thái Gỡ cài đặt
+Header_b = Vui lòng đợi trong khi <appname> bị gỡ cài đặt khỏi máy tính của bạn.
+Uninstalling = Đang gỡ cài đặt
+Btn_cancel = Hủy bỏ
+ExitUninstall_T = Gỡ cài đặt
+ExitUninstall = Bạn có muốn thoát khỏi việc gỡ cài đặt không?
+Success_T = Gỡ cài đặt
+Success = <appname> đã được gỡ cài đặt thành công khỏi máy tính của bạn!
+BM_T = Gỡ cài đặt
+BM = Bạn có muốn gỡ cài đặt <appname> khỏi máy tính của bạn không?
