@@ -1,0 +1,86 @@
+// Bahasa Malaysia untuk InstallForge
+// Diterjemah pada: 2024-12-02 (oleh Bakhda, Firesh)
+
+[Main]
+Title= Instalasi <appname>
+
+[Gadgets]
+NextBtn = Seterusnya >
+CancelBtn = Batal
+BackBtn = < Kembali
+FinishBtn = Selesai
+BrowseBtn = Cari...
+AcceptOptn = Saya setujui perjanjian di atas
+DoNotAcceptOptn = Saya menolak perjanjian di atas
+CreateDesktopIconCbx = Buat ikon di desktop
+CreateStartMenuFolderCbx = Buat folder start menu
+LaunchProgramCbx = Lancarkan
+RebootCbx = Reboot komputer sekarang
+DestinationFolderFR3 = Folder destinasi
+SelAppFolder=Pilih Folder aplikasi:
+SelStartMenuFolder=Pilih folder start menu:
+
+[Messages]
+ExitSetupH = Keluar dari instalasi
+ExitSetup = Adakah anda ingin membatalkan instalasi?
+CouldNotExtractFileH = Ralat
+CouldNotExtractFile = Tidak dapat mengekstrak fail!
+
+[Start]
+Title = Selamat datang di instalasi <appname>
+Text = Ini akan menginstal <appname> <appversion> di komputer anda. Kamu disarankan untuk menutup semua aplikasi lain sebelum meneruskan. Klik seterusnya untuk memulakan instalasi.
+
+[LicenceAgreement]
+HeadT = Perjanjian lesen
+HeadB = Baca maklumat penting yang berikut sebelum meneruskan.
+Text1 = Silakan baca perjanjian lesen berikut. Kamu harus menerima syarat-syarat perjanjian ini sebelum meneruskan instalasi.
+
+[ApplicationFolder]
+HeadT = Pilih folder aplikasi
+HeadB = Pilih direktori
+Text1 = Aplikasi, <appname>, akan ditempatkan di folder berikut:
+Text2 = Untuk meneruskan, klik Seterusnya. Jika anda ingin memilih folder lain, klik "Cari".
+Text3 = Ruang kosong yang diperlukan:
+Text4 = Ruang kosong yang tersedia:
+
+[StartMenuFolder]
+HeadT = Pilih folder start menu
+HeadB = Dimanakah instalasi harus menempatkan pintasan program ?
+Text1 = Instalasi akan membuat pintasan program di folder start menu berikut:
+Text2 = Untuk meneruskan, klik "Seterusnya". Jika anda ingin memilih folder lain, klik "Cari".
+
+[AdditionalTasks]
+HeadT = Pilihan Tambahan
+HeadB = Pilihan tambahan apa yang harus dipilih ?
+Text1 = Berikut adalah pilihan tambahan yang dipilih:
+Text2 = Ikon tambahan:
+
+[Installing]
+HeadT = Menginstal
+HeadB = Harap menunggu.. Instalasi sedang berjalan
+Text1 = Sedia untuk menginstal
+Text2 = Sedang menginstal...
+Text3 = Mengkonfigurasi...
+
+[Finish]
+Title = <appname> telah selesai di-install
+Text1 = Instalasi telah selesai. Klik "Selesai" untuk keluar dari instalasi.
+
+[SerialCheck]
+HeadT = Maklumat pengguna
+HeadB = Sila masukkan maklumat anda.
+Text1 = Nama pengguna:
+Text2 = Organisasi:
+Text3 = Nombor Siri:
+
+[Uninstall]
+Header = Status nyahpasang (Uninstall)
+Header_b = Harap tunggu... Nyahpasang (Uninstall) sedang berjalan
+Uninstalling = Sedang di-nyahpasang (Uninstalling)
+Btn_cancel = Batal
+ExitUninstall_T = Nyahpasang (Uninstall)
+ExitUninstall = Apakah anda ingin keluar dari aksi Nyahpasang (Uninstall)?
+Success_T = Nyahpasang (Uninstall)
+Success = <appname> telah di-nyahpasang (uninstall)!
+BM_T = Nyapasang (Uninstall)
+BM = Apakah anda ingin, <appname>, di-nyahpasang (uninstall)?
