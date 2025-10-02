@@ -1,6 +1,6 @@
-﻿// Copyright (C) 2024 Lukas Uher, LUnet Studio
+﻿// Copyright (C) 2025 Lukas Uher, LUnet Studio
 // Slovak language file for InstallForge.
-// Last updated: 2024-11-28
+// Last updated: 2025-01-29
 
 [Main]
 Title= <appname> Setup
@@ -29,7 +29,7 @@ CouldNotExtractFile = Súbor sa nepodarilo extrahovať!
 
 [Start]
 Title = Vitajte v sprievodcovi inštaláciou <appname>
-Text = Sprievodca nainštaluje <ppename> <appversion> do vášho počítača. Pred pokračovaním sa odporúča zatvoriť všetky ostatné aplikácie. Pokračujte kliknutím na tlačidlo Ďalej.
+Text = Sprievodca nainštaluje <appname> <appversion> do vášho počítača. Pred pokračovaním sa odporúča zatvoriť všetky ostatné aplikácie. Pokračujte kliknutím na tlačidlo Ďalej.
 
 [LicenceAgreement]
 HeadT = Licenčná dohoda
