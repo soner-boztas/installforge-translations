@@ -76,12 +76,12 @@ Text3 = 序列号：
 
 [Uninstall]
 Header = 卸载状态
-Header_b = 请稍候，正在从计算机中删除 <appname>。
+Header_b = 请稍候，正在从计算机中移除 <appname>。
 Uninstalling = 正在卸载
 Btn_cancel = 取消
 ExitUninstall_T = 取消卸载
 ExitUninstall = 您确定要退出卸载吗？
 Success_T = 卸载完成
-Success = <appname> 已成功从您的计算机中删除！
+Success = <appname> 已成功从您的计算机中移除！
 BM_T = 卸载
-BM = 您确定要从计算机中删除 <appname> 吗？
+BM = 您确定要从计算机中移除 <appname> 吗？
