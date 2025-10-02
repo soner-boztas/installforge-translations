@@ -2,7 +2,7 @@
 
 ## Overview
 This repository is the official source for translations of InstallForge. Strictly speaking, these are translations for setup packages that can be created with InstallForge.
-The translations are available in the form of plain-text files in UTF-8 encoding; files with the so-called ``.ifl`` extension (also referred to as _InstallForge Language File_).
+The translations are available in the form of plain-text files in UTF-8 with BOM encoding; files with the so-called ``.ifl`` extension (also referred to as _InstallForge Language File_).
 
 > [!NOTE]
 > All language files contained in the branch main represent the latest available versions and will be bundled with the next release of InstallForge.
