@@ -1,0 +1,87 @@
+﻿// Chinese(Traditional) language file for InstallForge
+// Created By Nary
+
+[Main]
+Title = <appname> 安裝
+
+[Gadgets]
+NextBtn = 下一步 >
+CancelBtn = 取消
+BackBtn = < 上一步
+FinishBtn = 完成
+BrowseBtn = 瀏覽...
+AcceptOptn = 我接受協議
+DoNotAcceptOptn = 我不接受協議
+CreateDesktopIconCbx = 建立桌面捷徑
+CreateStartMenuFolderCbx = 建立開始功能表資料夾
+LaunchProgramCbx = 啟動
+RebootCbx = 立即重新啟動電腦
+DestinationFolderFR3 = 目標資料夾
+SelAppFolder = 選擇應用程式資料夾：
+SelStartMenuFolder = 選擇開始功能表資料夾：
+
+[Messages]
+ExitSetupH = 退出安裝
+ExitSetup = 你想要中止安裝嗎？
+CouldNotExtractFileH = 錯誤
+CouldNotExtractFile = 無法解壓縮檔案！
+
+[Start]
+Title = 歡迎使用 <appname> 安裝精靈
+Text = 這將在您的電腦上安裝 <appname> <appversion>。我們建議您在繼續前關閉所有相關應用程式。按「下一步」繼續。
+
+[LicenceAgreement]
+HeadT = 許可協議
+HeadB = 請閱讀以下重要資訊後再繼續。
+Text1 = 請仔細閱讀以下許可協議。您必須在繼續安裝前接受本協議的條款。
+
+[ApplicationFolder]
+HeadT = 選擇應用程式資料夾
+HeadB = 請選擇安裝位置。
+Text1 = 安裝程式將把 <appname> 安裝在下列資料夾中。
+Text2 = 若要繼續，請點選「下一步」。若想選擇其他資料夾，請點選「瀏覽」。
+Text3 = 所需可用空間：
+Text4 = 可用空間：
+
+[StartMenuFolder]
+HeadT = 選擇開始功能表資料夾
+HeadB = 要將安裝程式的捷徑放在哪裡？
+Text1 = 安裝程式將在下列開始功能表資料夾中建立程式捷徑。
+Text2 = 若要繼續，請點選「下一步」。若想選擇其他資料夾，請點選「瀏覽」。
+
+[AdditionalTasks]
+HeadT = 選擇其他任務
+HeadB = 要執行這些額外的任務嗎？
+Text1 = 請選擇在安裝 <appname> 時想要設定的其他任務，然後按「下一步」。
+Text2 = 額外圖示：
+
+[Installing]
+HeadT = 安裝
+HeadB = 請稍候，安裝程式正在將 <appname> 安裝至您的電腦。
+Text1 = 準備安裝...
+Text2 = 安裝中...
+Text3 = 正在設定...
+
+[Finish]
+Title = 完成安裝 <appname>
+Text1 = 安裝程式已在您的電腦上完成 <appname> 的安裝。按「完成」結束安裝程式。
+
+[SerialCheck]
+HeadT = 使用者資訊
+HeadB = 請輸入您的資訊。
+Text1 = 使用者名稱：
+Text2 = 組織：
+Text3 = 序號：
+
+[Uninstall]
+Header = 解除安裝
+Header_b = 請稍候，正在從電腦中移除 <appname>。
+Uninstalling = 正在解除安裝
+Btn_cancel = 取消
+
+ExitUninstall_T = 取消解除安裝
+ExitUninstall = 您想要退出解除安裝嗎？
+Success_T = 解除安裝
+Success = <appname> 已成功從您的電腦移除！
+BM_T = 解除安裝
+BM = 您想要從電腦中移除 <appname> 嗎？
