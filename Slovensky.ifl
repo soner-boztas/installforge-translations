@@ -1,0 +1,87 @@
+﻿// Copyright (C) 2025 Lukas Uher, LUnet Studio
+// Slovak language file for InstallForge.
+// Last updated: 2025-01-29
+
+[Main]
+Title= <appname> Setup
+
+[Gadgets]
+NextBtn = Ďalej >
+CancelBtn = Zrušiť
+BackBtn = < Späť
+FinishBtn = Dokončiť
+BrowseBtn = Prehľadávať...
+AcceptOptn = Súhlasím s podmienkami
+DoNotAcceptOptn = Nesúhlasím s podmienkami
+CreateDesktopIconCbx = Vytvoriť odkaz na ploche
+CreateStartMenuFolderCbx = Vytvoriť odkazy v ponuke Štart
+LaunchProgramCbx = Spustiť
+RebootCbx = Reštartovať počítač teraz
+DestinationFolderFR3 = Cieľový priečinok
+SelAppFolder=Vyberte priečinok aplikácie:
+SelStartMenuFolder=Vyberte priečinok ponuky Štart:
+
+[Messages]
+ExitSetupH = Ukončiť
+ExitSetup = Naozaj chcete prerušiť inštaláciu?
+CouldNotExtractFileH = Chyba
+CouldNotExtractFile = Súbor sa nepodarilo extrahovať!
+
+[Start]
+Title = Vitajte v sprievodcovi inštaláciou <appname>
+Text = Sprievodca nainštaluje <appname> <appversion> do vášho počítača. Pred pokračovaním sa odporúča zatvoriť všetky ostatné aplikácie. Pokračujte kliknutím na tlačidlo Ďalej.
+
+[LicenceAgreement]
+HeadT = Licenčná dohoda
+HeadB = Pred pokračovaním si prečítajte nasledujúce dôležité informácie.
+Text1 = Prečítajte si, prosím, licenčnú dohodu. Pred pokračovaním v inštalácii musíte vyjadriť súhlas s podmienkami tejto dohody.
+
+[ApplicationFolder]
+HeadT = Vyberte priečinok aplikácie
+HeadB = Vyberte priečinok pre inštaláciu.
+Text1 = Sprievodca nainštaluje <appname> do priečinka zobrazeného nižšie.
+Text2 = Pre pokračovanie kliknite na Ďalej. Ak by ste chceli vybrať iný priečinok, kliknite na Prehľadávať.
+Text3 = Požadované voľné miesto:
+Text4 = Dostupné voľné miesto:
+
+[StartMenuFolder]
+HeadT = Vyberte priečinok ponuky Štart
+HeadB = Kde budú umiestnené odkazy aplikácie?
+Text1 = Sprievodca umiestni odkazy v ponuke Štart do nasledujúceho priečinka.
+Text2 = Pre pokračovanie kliknite na Ďalej. Ak by ste chceli vybrať iný priečinok, kliknite na Prehľadávať.
+
+[AdditionalTasks]
+HeadT = Vyberte ďalšie úlohy
+HeadB = Ktoré ďalšie úlohy by sa mali vykonať?
+Text1 = Vyberte ďalšie úlohy, ktoré si želáte vykonať počas inštalácie <appname>, potom kliknite na Ďalej.
+Text2 = Ďalšie ikony:
+
+[Installing]
+HeadT = Prebieha inštalácia
+HeadB = Počkate prosím, sprievodca inštaluje <appname> do vášho počítača.
+Text1 = Príprava inštalácie..
+Text2 = Inštalácia..
+Text3 = Konfigurácia..
+
+[Finish]
+Title = Dokončenie sprievodcu inštaláciou <appname>
+Text1 = Inštalácia <appname> do vášho počítača prebehla úspešne. Ukončite sprievodcu kliknutím na Dokončiť.
+
+[SerialCheck]
+HeadT = Informácie o používateľovi
+HeadB = Zadajte svoje informácie.
+Text1 = Meno používateľa:
+Text2 = Organizácia:
+Text3 = Sériové číslo:
+
+[Uninstall]
+Header = Priebeh odinštalovania
+Header_b = Počkate prosím, kým sa <appname> odstráni z vášho počítača.
+Uninstalling = Odinštalovanie
+Btn_cancel = Zrušiť
+ExitUninstall_T = Odinštalovať
+ExitUninstall = Naozaj chcete prerušiť odinštalovanie?
+Success_T = Odinštalované
+Success = Odstránenie <appname> z vášho počítača bolo úspešné!
+BM_T = Odinštalovanie
+BM = Želáte si odstrániť <appname> z vášho počítača?

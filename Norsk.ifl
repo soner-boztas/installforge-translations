@@ -1,0 +1,86 @@
+// Norwegian language file for InstallForge
+// Translated by justablock
+
+[Main]
+Title= Installasjon av <appname> 
+
+[Gadgets]
+NextBtn = Neste >
+CancelBtn = Avbryt
+BackBtn = < Tilbake
+FinishBtn = Fullføre
+BrowseBtn = Bla gjennom...
+AcceptOptn = Jeg aksepterer avtalen
+DoNotAcceptOptn = Jeg godtar ikke avtalen
+CreateDesktopIconCbx = Opprett skrivebord-ikon
+CreateStartMenuFolderCbx = Opprett startmenymappe
+LaunchProgramCbx = Start
+RebootCbx = Start datamaskinen på nytt nå
+DestinationFolderFR3 = Destinasjonsmappe
+SelAppFolder = Velg programmappe:
+SelStartMenuFolder = Velg Start-menymappe:
+
+[Messages]
+ExitSetupH = Avslutt Installasjon
+ExitSetup = Vil du avbryte installasjonen?
+CouldNotExtractFileH = Feil
+CouldNotExtractFile = Kunne ikke pakke ut filen!
+
+[Start]
+Title = Velkommen Til <appname> Installasjonsprogramm
+Text = Dette installeres <appname> <appversion> på datamaskinen din. Det anbefales at du lukker alle andre programmer før du fortsetter. Klikk Neste for å fortsette.
+
+[LicenceAgreement]
+HeadT = Lisensavtalen
+HeadB = Les følgende viktige informasjon før du fortsetter.
+Text1 = Les følgende lisensavtale. Du må godta vilkårene i denne avtalen før du fortsetter med installasjonen.
+
+[ApplicationFolder]
+HeadT = Velg Programmappe
+HeadB = Velg veien for installasjonen.
+Text1 = Installasjonsprogrammet skal installere <appname> i mappen som vises nedenfor.
+Text2 = For å fortsette, klikk Neste. Hvis du vil velge en annen mappe, klikker du Bla gjennom.
+Text3 = Nødvendig ledig plass:
+Text4 = Tilgjengelig ledig plass:
+
+[StartMenuFolder]
+HeadT = Velg Start-menymappe
+HeadB = Hvor skal installasjonsprogrammet plassere programmets snarveier?
+Text1 = Installasjonsprogrammet oppretter programmets snarveier i følgende Start-menymappe.
+Text2 = For å fortsette, klikk Neste. Hvis du vil velge en annen mappe, klikker du Bla gjennom.
+
+[AdditionalTasks]
+HeadT = Velg flere oppgaver.
+HeadB = Hvilke tilleggsoppgaver skal utføres?
+Text1 = Velg tilleggsoppgavene du vil at installasjonen skal utføre under installasjonen <appname>, og klikk deretter Neste.
+Text2 = Flere ikoner:
+
+[Installing]
+HeadT = Installerer
+HeadB = Vent mens installasjonsprogrammet installeres <appname> på datamaskinen.
+Text1 = Forbereder å installere...
+Text2 = Installerer...
+Text3 = Konfigurerer...
+
+[Finish]
+Title = Fullføre <appname> installasjonsveiviseren.
+Text1 = Installasjonsprogrammet har installert <appname> på datamaskinen. Klikk Fullfør for å avslutte installasjonsprogrammet.
+
+[SerialCheck]
+HeadT = Brukerinformasjon
+HeadB = Vennligst skriv inn din informasjon.
+Text1 = Brukernavn:
+Text2 = Organisasjon:
+Text3 = Serienummer:
+
+[Uninstall]
+Header = Avinstallerings status
+Header_b = Vent mens <appname> den er fjernet fra datamaskinen.
+Uninstalling = Avinstallerer
+Btn_cancel = Avbryt
+ExitUninstall_T = Avinstaller
+ExitUninstall = Vil du avslutte avinstallasjonen?
+Success_T = Avinstaller
+Success = <appname> ble fjernet fra datamaskinen din!
+BM_T = Avinstaller
+BM = Vil du fjerne <appname> fra datamaskinen?
